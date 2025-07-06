@@ -2,11 +2,7 @@
 
 ### Auteurs : 
 
-- **SOW Oumou**
-- **RAZAFINDRAKOTO Tsiba**
 - **ESSOH Lath**
-
-**M2 DS2E**
 
 ## Contexte
 
